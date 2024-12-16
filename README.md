@@ -1,7 +1,7 @@
 # Automated MOM 🚀📝
 
 ## Project Overview  
-The **Automated MOM** project demonstrates the power of **Natural Language Processing (NLP)** and **Large Language Models (LLMs)** in automating and simplifying the creation and sharing of **Minutes of Meeting (MoM)**. 🎯 This tool transforms audio or video recordings of meetings into detailed and actionable summaries, saving time and effort for organizations.  
+The **Automated MOM** project demonstrates the power of **Natural Language Processing** and **Large Language Models** in automating and simplifying the creation and sharing of **Minutes of Meeting (MoM)**. 🎯 This tool transforms audio or video recordings of meetings into detailed and actionable summaries, saving time and effort for organizations.  
 
 Not only does it automate transcription, but it also provides editable MoM, giving users the flexibility to refine and finalize summaries as needed. ✨  
 
