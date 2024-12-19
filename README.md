@@ -164,6 +164,5 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 # Contact 📬  
 For questions, feedback, or support, reach out:  
 
-  - [Kamashwara-dk](https://github.com/Kamashwara-dk)
 
 ---
