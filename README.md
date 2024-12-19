@@ -8,15 +8,15 @@ Not only does it automate transcription, but it also provides editable MoM, givi
 ---
 
 # Features 😎 
-### 1. **Audio/Video Transcription 🎙️**  
+### 1.**Audio/Video Transcription 🎙️**  
 - Converts recorded meeting files into accurate text conversations.  
 - Supports a wide range of audio and video formats for seamless integration.  
 
-### 2. **Meeting Summarization 📋**  
+### 2.**Meeting Summarization 📋**  
 - Processes transcriptions into concise and detailed MoM.  
 - Provides editable summaries for customization before sharing or archiving.  
 
-### 3. **Streamlined MoM Management 📤**  
+### 3.**Streamlined MoM Management 📤**  
 - Simplifies the process of generating and delegating MoM emails.  
 - Reduces manual intervention, saving time and minimizing errors.  
 
