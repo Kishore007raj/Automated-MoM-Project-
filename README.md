@@ -33,7 +33,10 @@ The project aspires to evolve into a **real-time meeting assistant** capable of:
 # Tech Stack 🛠️  
 - **Programming Language**: 
     - **Python** 
-    - **HTML, CSS, JavaScript**
+    - **HTML**
+    - **css**
+    - **JavaScript**
+
 - **Key Libraries/Frameworks**:  
   - **Whisper**: For high-quality transcription. 🎧  
   - **PyTorch**: Supports Whisper model implementation. 🔥
